@@ -1,23 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+// module imports
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { useEffect } from "react";
+
+//Components imports
+import HomeScreen from "./HomeScreen/HomeScreen";
+
+import "./App.css";
 
 function App() {
+  //Routing paths
+  // For GET requests
+
+  //call http fetch interceptor
+  //BotLiteHTTPInterceptor();
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="main-div">
+      <BrowserRouter>
+        <Routes>
+          <Route path="/home" element={<HomeScreen />} />
+          <Route path="/" element={<HomeScreen />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }

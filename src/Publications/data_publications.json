@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Active Predictive Coding: A Unifying Neural Model for Active Perception, Compositional Learning, and Hierarchical Planning",
+        "publication": "<em>Journal Published @ <a href='https://direct.mit.edu/neco/article/36/1/1/118264/Active-Predictive-Coding-A-Unifying-Neural-Model'> Neural Computation, 2024 </a></em>",
+        "presented": "<em>Paper Presented @ <a href='https://escholarship.org/uc/item/6g85953g'> The Annual Meeting of the Cognitive Science Society, 2023 </a> </em>",
+        "authors": "<a href='https://neural.cs.washington.edu/people'>Rajesh Rao</a>; <a href='https://neural.cs.washington.edu/people'>Dimitrios Gklezakos</a>; <strong>Vishwas Sathish</strong>",
+        "link": "https://direct.mit.edu/neco/article/36/1/1/118264/Active-Predictive-Coding-A-Unifying-Neural-Model",
+        "img": "images/vish_images/general-apc.png"
+    },
+    {
+        "title": "Applications of Optimal Stopping Algorithm for Social Graph Based Recommendation",
+        "publication": "<em>2019 IEEE Students Conference on Engineering and Systems (SCES)</em>",
+        "authors": "Sai Rohit; <strong>Vishwas Sathish</strong>; Tanya Mehrotra; Bhaskarjyoti Das",
+        "link": "https://ieeexplore.ieee.org/abstract/document/8977222",
+        "img": "images/vish_images/recommendation.png"
+    },
+    {
+        "title": "Graph Embedding Based Hybrid Social Recommendation System",
+        "publication": "<em>Accepted at the 9th International Conference on Advances in Computing & Communications (ICACC 2019, Oral)</em>",
+        "authors": "<strong>Vishwas Sathish</strong>; Tanya Mehrotra; Simran Dhinwa; Bhaskarjyoti Das",
+        "link": "https://arxiv.org/pdf/1908.09454.pdf",
+        "img": "images/vish_images/embeddings.png"
+    }
+]
