@@ -7,7 +7,7 @@ return <div style={{ textAlign: 'justify' }}>
                     <td style={{padding:"0px"}}>
                         <br/>
                         <p style={{textAlign:"center", fontSize:"small"}}>
-                        This website's source code can be found on my <a href="https://github.com/vishwassathish/website-react">github</a>. Design credits to <a href="https://jonbarron.info/">this webpage</a>. <br/>My <a href='https://vidyavenkappa.github.io/'>beautiful wife</a> rewrote the entire website in React.
+                        This website's source code can be found on my <a href="https://github.com/vishwassathish/website-vishwas">github</a>. Design credits to <a href="https://jonbarron.info/">this webpage</a>. <br/>My <a href='https://vidyavenkappa.github.io/'>beautiful wife</a> rewrote the entire website in React.
                         </p>
                     </td>
                     </tr>
