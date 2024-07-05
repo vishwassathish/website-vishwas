@@ -4,6 +4,7 @@ import Publications from '../Publications/Publications';
 import Patent from '../PatentsSection/Patent';
 import Projects from '../ProjectSection/Projects';
 import News from '../News/News';
+import Footer from '../Footer/Footer';
 export const HomeScreen = () => {
     return (
         <>
@@ -12,6 +13,8 @@ export const HomeScreen = () => {
             <Publications />
             <Patent />
             <Projects />
+            <Footer />
+            
         </>
     )
 }

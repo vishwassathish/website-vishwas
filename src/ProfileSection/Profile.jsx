@@ -17,7 +17,7 @@ export const Profile = () => {
                                 </p>
 
                                 <p style={{ textAlign: 'justify' }}>
-                                    I am a CS PHD student at University of Washington, advised by <a
+                                    I am a CS PhD student at University of Washington, advised by <a
                                         href="https://www.rajeshpnrao.com/">Prof. Rajesh Rao</a>.
                                     My research interests lie in Machine Learning, Reinforcement Learning and Computational
                                     Neuroscience.
@@ -32,7 +32,7 @@ export const Profile = () => {
                                 <p style={{ textAlign: "justify" }}>
                                     Before starting my research, I enjoyed two years working as a Machine Learning Engineer at <a href='www.7sugar.com'>7sugar</a>, a
                                     small healthcare startup
-                                    in Bangalore. I've also interned in Morgan Stanley
+                                    in Bangalore. I've also interned in <a href='https://www.morganstanley.com/'>Morgan Stanley</a>.
                                 </p>
                                 <p style={{ textAlign: "center" }}>
                                     <a href={process.env.PUBLIC_URL + "data/vish_data/Vishwas_Academic_Resume.pdf"}>CV</a> &nbsp;|&nbsp;
@@ -51,8 +51,8 @@ export const Profile = () => {
                                 </p> */}
                             </td>
                             <td style={{ padding: '2.5%', width: '40%', maxWidth: '40%' }}>
-                                <a href={process.env.PUBLIC_URL + "images/vish_images/profile_pic.jpeg"}><img style={{ width: '100%', maxWidth: '100%', borderRadius: '50%' }}
-                                    alt="profile photo" src={process.env.PUBLIC_URL + "images/vish_images/profile_pic.jpeg"} className="hoverZoomLink" /></a>
+                                <a href={process.env.PUBLIC_URL + "images/vish_images/profile_2.png"}><img style={{ width: '100%', maxWidth: '100%', borderRadius: '50%' }}
+                                    alt="profile photo" src={process.env.PUBLIC_URL + "images/vish_images/profile_2.png"} className="hoverZoomLink" /></a>
                             </td>
                         </tr>
                     </tbody >

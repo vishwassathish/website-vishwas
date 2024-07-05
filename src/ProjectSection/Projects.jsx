@@ -7,7 +7,7 @@ export const Patent = () => {
     return <>
         <div style={{ textAlign: 'justify' }}>
             <div style={{ width: '100%', maxWidth: '800px', border: '0px', borderSpacing: '0px', borderCollapse: 'separate', marginRight: 'auto', marginLeft: 'auto' }}>
-                <h2>Projects and Technical Reports</h2>
+                <h2>Other Projects</h2>
                 <table style={{
                     width: '100%', border: '0px', borderSpacing: '0px', borderCollapse: 'separate', marginRight: 'auto', marginLeft: 'auto'
                 }} >

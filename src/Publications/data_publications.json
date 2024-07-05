@@ -1,5 +1,11 @@
 [
     {
+        "title":"Learning Hierarchical Abstractions of Complex Dynamics using Predictive Coding",
+        "publication":"<em>Structural Priors as Inductive Biases for Learning Robot Dynamics Workshop @ <a href='https://roboticsconference.org/'>Robotics: Science and Systems (RSS), 2024</a></em>. (Paper link coming soon!)",
+        "img": "images/vish_images/rss_workshop.png",
+        "authors": " <b>Vishwas Sathish</b>; Rajesh Rao"
+    },
+    {
         "title": "Active Predictive Coding: A Unifying Neural Model for Active Perception, Compositional Learning, and Hierarchical Planning",
         "publication": "<em>Journal Published @ <a href='https://direct.mit.edu/neco/article/36/1/1/118264/Active-Predictive-Coding-A-Unifying-Neural-Model'> Neural Computation, 2024 </a></em>",
         "presented": "<em>Paper Presented @ <a href='https://escholarship.org/uc/item/6g85953g'> The Annual Meeting of the Cognitive Science Society, 2023 </a> </em>",
@@ -12,7 +18,7 @@
         "publication": "<em>2019 IEEE Students Conference on Engineering and Systems (SCES)</em>",
         "authors": "Sai Rohit; <strong>Vishwas Sathish</strong>; Tanya Mehrotra; Bhaskarjyoti Das",
         "link": "https://ieeexplore.ieee.org/abstract/document/8977222",
-        "img": "images/vish_images/recommendation.png"
+        "img": "images/vish_images/social_graph.jpg"
     },
     {
         "title": "Graph Embedding Based Hybrid Social Recommendation System",

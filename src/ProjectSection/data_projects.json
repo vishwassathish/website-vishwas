@@ -1,10 +1,8 @@
 [
     {
-        "title": "Spatio-Temporal Abstractions in Reinforcement Learning",
-        "year": "Technical Report, University of Washington, March 2022",
-        "authors": "<strong>Vishwas Sathish</strong>, Courtnie Paschall",
-        "link": "https://drive.google.com/file/d/1cWSafeSTQ5yFKhPi_mGH92sDec4pOJox/view?usp=sharing",
-        "image": "images/vish_images/abstraction_project.png"
+        "title": "LLeMpower: Understanding Disparities in the Control and Access of Large Language Models",
+        "year": "Technical Report, University of Washington, March 2024",
+        "link": "https://arxiv.org/abs/2404.09356"
     },
     {
         "title": "Examining LLM Cognition Through Puzzles and Optical Illusions",
@@ -14,8 +12,12 @@
         "image": "images/vish_images/Checker_shadow_illusion.png"
     },
     {
-        "title": "LLeMpower: Understanding Disparities in the Control and Access of Large Language Models",
-        "year": "Technical Report, University of Washington, Dec 2022",
-        "link": "https://arxiv.org/abs/2404.09356"
+        "title": "Spatio-Temporal Abstractions in Reinforcement Learning",
+        "year": "Technical Report, University of Washington, March 2022",
+        "authors": "<strong>Vishwas Sathish</strong>, Courtnie Paschall",
+        "link": "https://drive.google.com/file/d/1cWSafeSTQ5yFKhPi_mGH92sDec4pOJox/view?usp=sharing",
+        "image": "images/vish_images/abstraction_project.png"
     }
+
+
 ]

@@ -22,16 +22,17 @@ export const News = () => {
                                         <div dangerouslySetInnerHTML={{ __html: row.date }} ></div>
 
                                     </td>
-                                    <td style={{ paddingTop: '20px', paddingBottom: '20px', width: '75%', }}>
+                                    <td style={{ width: '75%', }}>
 
                                         <div dangerouslySetInnerHTML={{ __html: row.description }} ></div>
-                                        <br />
+                                        
                                     </td>
                                 </tr>
                             ))
                         }
                     </tbody>
                 </table>
+                <br/>
             </div>
         </div >
     </>
